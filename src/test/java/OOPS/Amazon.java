@@ -9,7 +9,7 @@ public class Amazon {
 		System.out.println("Brand: "+moto.brand);
 		System.out.println(moto.model);
 		moto.price();
-		System.out.println(moto.OS);
+		System.out.println(moto.OS) ;
 		moto.androidVersion();
 		moto.colour();
 		moto.camera();
